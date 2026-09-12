@@ -97,8 +97,6 @@ Projetos presentes no meu currículo e na minha trajetória profissional. Quando
 o código é interno, o link aponta para o produto público ou para o estudo de
 caso no portfólio.
 
-- [Usadão Máquinas](https://www.usadaomaquinas.com.br/) — plataforma de
-  classificados de máquinas, com atuação em backend, integrações e operação;
 - [Lizlu](https://lojalizlu.com.br/) — solução de varejo e presença digital;
 - [Aura Importados](https://auraimportados.com/) — solução de perfumaria e
   presença digital;
