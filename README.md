@@ -1,85 +1,70 @@
 # Daniele Nicolini
 
-## Software Developer | Backend & Frontend | Systems Architecture
+### Desenvolvedora Full Stack · PHP/Laravel · React/TypeScript
 
-Desenvolvedora focada na construção de sistemas robustos, APIs escaláveis e interfaces modernas. Atuo principalmente no desenvolvimento de soluções completas envolvendo backend, frontend e integrações externas.
+Desenvolvo sistemas web completos, da modelagem de dados e construção de APIs
+até interfaces responsivas, integrações e rotinas de implantação. Meu foco é
+transformar regras de negócio complexas em produtos seguros, organizados e
+fáceis de manter.
 
----
+[Portfólio](https://dnnicolini.com.br) ·
+[LinkedIn](https://www.linkedin.com/in/daniele-nicolini/) ·
+[E-mail](mailto:devnicolinidani@gmail.com)
 
-## Sobre mim
+## Atuação
 
-Trabalho com desenvolvimento de sistemas web completos, desde a modelagem de banco de dados até a entrega de interfaces modernas e responsivas.
+- APIs REST e aplicações full stack com autenticação e autorização;
+- sistemas administrativos, dashboards e gestão de conteúdo;
+- integrações com WhatsApp, webhooks e serviços externos;
+- chat em tempo real e fluxos com filas, eventos e automações;
+- geração de documentos, relatórios e processos de negócio;
+- infraestrutura com Docker, Nginx, Linux e CI/CD.
 
-Tenho experiência com:
+## Stack principal
 
-- Construção de APIs REST
-- Sistemas de chat em tempo real e polling
-- Integrações com serviços externos (WhatsApp, APIs, Webhooks)
-- Arquitetura baseada em adapters e serviços
-- Sistemas administrativos e dashboards
-- Automação de processos
+- **Backend:** PHP, Laravel, Node.js, MySQL, PostgreSQL e SQLite
+- **Frontend:** React, TypeScript, Next.js, Vue.js, Inertia e Tailwind CSS
+- **Infraestrutura:** Docker, Nginx, Linux, GitHub Actions e Cloudflare
+- **Qualidade:** Pest, PHPUnit, Playwright, PHPStan/Larastan e TypeScript
 
----
+## Projetos em destaque
 
-## Tecnologias que utilizo
+### [Instituto Azon Social](https://github.com/Dnnicolini/instituto-azon-social)
 
-### Backend
+Site institucional e CMS construído com Laravel, React, TypeScript e Inertia.
+Inclui controle de acesso por permissões, publicação agendada, SEO, calendário,
+documentos de transparência e integração com Instagram e armazenamento R2.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-</p>
+[Ver site](https://azonsocial.org.br)
 
----
+### [Ficha PRD — preenchimento automático](https://github.com/Dnnicolini/prd-inscri-o)
 
-### Frontend
+Aplicação Flask para preencher fichas e gerar PDFs prontos para impressão, com
+consultas ao IBGE e ViaCEP para reduzir digitação e inconsistências.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
-</p>
+### [Posts](https://github.com/Dnnicolini/posts-d)
 
----
+Plataforma de publicações e comentários desenvolvida com Laravel, React e
+MySQL, incluindo autenticação e ambiente local com Docker.
 
-### DevOps e Ferramentas
+### [Cinetech](https://github.com/Dnnicolini/cinetech)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
+CRUD de filmes em PHP com arquitetura MVC, PDO, autenticação, relacionamento
+entre filmes e gêneros e execução opcional em containers.
 
----
+## Princípios de trabalho
 
-## Principais tipos de projetos
-
-- Sistemas de chat com múltiplos canais (web, API, WhatsApp)
-- APIs para aplicações web e mobile
-- Sistemas administrativos completos com controle de permissões
-- Integração com serviços externos e automações
-- Sistemas com geração de documentos e relatórios
-- Plataformas com autenticação e controle de acesso
-
----
-
-## Diferenciais
-
-- Arquitetura organizada e escalável
-- Código limpo e padronizado
-- Foco em performance e segurança
-- Experiência com sistemas corporativos e governamentais
-- Integração entre múltiplas tecnologias
-
----
+- segurança e autorização aplicadas no backend;
+- código legível, tipado e coberto por testes úteis;
+- interfaces acessíveis e responsivas;
+- integrações resilientes e observáveis;
+- entregas incrementais, com validação e possibilidade de rollback.
 
 ## Contato
 
-- Email: devnicolinidani@gmail.com
+Estou disponível para conversar sobre desenvolvimento de produtos, sistemas
+corporativos e projetos de impacto social.
+
+- [Portfólio — dnnicolini.com.br](https://dnnicolini.com.br)
+- [LinkedIn — Daniele Nicolini](https://www.linkedin.com/in/daniele-nicolini/)
+- [E-mail — devnicolinidani@gmail.com](mailto:devnicolinidani@gmail.com)
