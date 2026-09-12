@@ -101,7 +101,8 @@ caso no portfólio.
 - [Aura Importados](https://auraimportados.com/) — solução de perfumaria e
   presença digital;
 - [Plataforma de atendimento e integrações](https://dnnicolini.com.br/#case-via)
-  — estudo de caso de helpdesk e comunicação em tempo real;
+  — plataforma interna com conversas em tempo real, WebRTC, WebSockets,
+  integração com a API da Meta e automações de atendimento;
 - [Instituto Azon Social](https://azonsocial.org.br/) — site institucional e
   CMS para uma organização social;
 - [Geoportal DER/RO](https://geo.der.ro.gov.br/) — serviço público digital do
